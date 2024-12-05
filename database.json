@@ -1,0 +1,6 @@
+{
+	"items": [
+		{ "name": "Куртка", "quantity": 10, "price": 1500 },
+		{ "name": "Штани", "quantity": 15, "price": 800 }
+	]
+}
